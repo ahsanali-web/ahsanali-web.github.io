@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_photo.jpg"
   name             : "Ahsan Ali"
-  pronouns         :  example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Postdoctoral Research Associate in Applied Mathematics"
   location         : "Waco, Texas, USA."
   employer         : "Baylor University"
