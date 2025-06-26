@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile_photo.jpg"
   name             : "Ahsan Ali"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Applied Mathematics"
-  location         : "Albuquerque, New Mexico, USA."
-  employer         : "University of New Mexico"
+  pronouns         :  example: "he/him"  
+  bio              : "Postdoctoral Research Associate in Applied Mathematics"
+  location         : "Waco, Texas, USA."
+  employer         : "Baylor University"
   uri              : # URL
   email            : "436ahsan@gmail.com" 
 
