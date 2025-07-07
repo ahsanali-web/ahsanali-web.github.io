@@ -11,5 +11,5 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal Articles
 
-- *Numerical solution of a fluid dynamic traffic flow model associated with a constant rate inflow*, *American Journal of Computational and Applied Mathematics*, 2015 [PDF](http://ahsanali-web.github.io/files/paper1.pdf)
+- Numerical solution of a fluid dynamic traffic flow model associated with a constant rate inflow, *American Journal of Computational and Applied Mathematics*, 2015 [link](http://ahsanali-web.github.io/files/paper1.pdf)
 
