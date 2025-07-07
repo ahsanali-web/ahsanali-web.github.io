@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal Articles
 
--**Ahsan Ali**, James Brannick, Karsten Kahl, Oliver A. Krzysik, Jacob B. Schroder, and Ben S. Southworth. Generalized Optimal AMG Convergence Theory for Nonsymmetric and Indefinite Problems. *SIAM Journal on Scientific Computing* 0 (2025): S89-S111. [Link](https://epubs.siam.org/doi/full/10.1137/24M1679288)
+- **Ahsan Ali**, James Brannick, Karsten Kahl, Oliver A. Krzysik, Jacob B. Schroder, and Ben S. Southworth. Generalized Optimal AMG Convergence Theory for Nonsymmetric and Indefinite Problems. *SIAM Journal on Scientific Computing* 0 (2025): S89-S111. [Link](https://epubs.siam.org/doi/full/10.1137/24M1679288)
 
 - **Ahsan Ali**, James Brannick, Karsten Kahl, Oliver A. Krzysik, Jacob B. Schroder, and Ben S. Southworth. Constrained Local Approximate Ideal Restriction for Advection-Diffusion problems. *SIAM Journal on Scientific Computing* 46.5 (2024): S96-S122. [Link](https://epubs.siam.org/doi/full/10.1137/23M1583442)
 
