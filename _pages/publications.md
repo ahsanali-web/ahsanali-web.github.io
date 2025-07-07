@@ -11,7 +11,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal Articles
 
-- A. K. M. Nazimuddin, **Ahsan Ali**. (2015). A Computer Technique for Duality Theory in Linear Programs. *American Journal of Applied Mathematics*, 3(3), 95-99. https://doi.org/10.11648/j.ajam.20150303.13. [Link](https://www.sciencepublishinggroup.com/article/10.11648/j.ajam.20150303.13)
+- **Ahsan Ali**, Laek Sazzad Andallah  Inflow Outflow Effect and Shock Wave Analysis in a Traffic Flow Simulation. *American Journal of Computational Mathematics (2016)*,06,55-65. doi: 10.4236/ajcm.2016.62007. [Link](https://www.scirp.org/html/1-1100505_65971.htm)
 
-- **Ahsan Ali**, Laek Sazzad Andallah, Zakia Hossain, Numerical Solution of a Fluid Dynamic Traffic Flow Model Associated with a Constant Rate Inflow, *American Journal of Computational and Applied Mathematics* , Vol. 5 No. 1, 2015, pp. 18-26. doi: 10.5923/j.ajcam.20150501.04. [Link](http://article.sapub.org/10.5923.j.ajcam.20150501.04.html)
+- A. K. M. Nazimuddin, **Ahsan Ali**. (2015). A Computer Technique for Duality Theory in Linear Programs. *American Journal of Applied Mathematics (2015)*, 3(3), 95-99. https://doi.org/10.11648/j.ajam.20150303.13. [Link](https://www.sciencepublishinggroup.com/article/10.11648/j.ajam.20150303.13)
+
+- **Ahsan Ali**, Laek Sazzad Andallah, Zakia Hossain, Numerical Solution of a Fluid Dynamic Traffic Flow Model Associated with a Constant Rate Inflow, *American Journal of Computational and Applied Mathematics (2015)* , Vol. 5 No. 1, 2015, pp. 18-26. doi: 10.5923/j.ajcam.20150501.04. [Link](http://article.sapub.org/10.5923.j.ajcam.20150501.04.html)
 
