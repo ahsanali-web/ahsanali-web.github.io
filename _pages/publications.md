@@ -11,5 +11,5 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal Articles
 
-- Numerical solution of a fluid dynamic traffic flow model associated with a constant rate inflow, *American Journal of Computational and Applied Mathematics*, 2015 [link](http://ahsanali-web.github.io/files/paper1.pdf)
+- **Ahsan Ali**, Laek Sazzad Andallah, Zakia Hossain, Numerical Solution of a Fluid Dynamic Traffic Flow Model Associated with a Constant Rate Inflow, *American Journal of Computational and Applied Mathematics* , Vol. 5 No. 1, 2015, pp. 18-26. doi: 10.5923/j.ajcam.20150501.04. [Link](http://article.sapub.org/10.5923.j.ajcam.20150501.04.html)
 
