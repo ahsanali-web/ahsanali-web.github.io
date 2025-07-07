@@ -13,3 +13,8 @@ a:hover {
   color: #FFB81C !important;
   text-decoration: none;
 }
+
+/* Justify About Me text ONLY on the home page */
+.layout--home .page__content p {
+  text-align: justify !important;
+}
