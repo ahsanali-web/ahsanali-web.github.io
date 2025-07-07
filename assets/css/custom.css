@@ -1,0 +1,26 @@
+/* Baylor-themed background color */
+body {
+  background-color: #f7f9f6;
+  background-image: url("../images/baylor-watermark.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 400px auto;
+}
+
+/* Baylor green text */
+body, p, li, h1, h2, h3, h4, h5, h6 {
+  color: #154734;
+}
+
+/* Baylor green links with gold hover */
+a {
+  color: #154734;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #FFB81C;
+  text-decoration: none;
+}
+
