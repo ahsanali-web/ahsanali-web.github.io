@@ -20,8 +20,8 @@ body::before {
   background-image: url("/assets/images/baylor-watermark.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 700px auto;
-  opacity: 0.01;
+  background-size: 600px auto;
+  opacity: 0.005;
   pointer-events: none;
   z-index: -1;
 }
