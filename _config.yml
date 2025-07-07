@@ -350,3 +350,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Add custom CSS
+custom_css:
+  - /assets/css/custom.css
