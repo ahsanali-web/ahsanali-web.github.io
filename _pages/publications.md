@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.page__content p, .page__content li { text-align: justify !important; }
+</style>
+
 You can also find my articles on my <a href="https://scholar.google.com/citations?user=fwXIoCMAAAAJ&hl=en">Google Scholar profile</a>.
 
 <h3>Accepted / Appeared</h3>
