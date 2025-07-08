@@ -16,6 +16,12 @@ body {
 }
 </style>
 
+<style>
+.page__content p {
+  text-align: justify !important;
+}
+</style>
+
 I am Ahsan Ali, a Postdoctoral Research Associate at [Baylor University](https://www.baylor.edu/), working on an NSF-funded project focused on the [Irksome library](https://www.firedrakeproject.org/Irksome/), a high-level software package for time-stepping finite element discretizations of partial differential equations. My role involves collaborating with the principal investigator and a team of students to enhance the library’s features and apply it to complex, real-world problems. I bring expertise in scalable numerical solvers and multilevel methods for nonsymmetric and indefinite problems, with a particular focus on developing and analyzing algebraic multigrid (AMG) techniques to improve the efficiency and robustness of numerical algorithms for PDEs. These methods are relevant to a wide range of applications, including computational physics, and engineering problems.
 
 I hold a B.Sc. in Mathematics (2011) and an M.S. in Mathematics (2012) from [Jahangirnagar University](https://juniv.edu/), Dhaka, Bangladesh. I later earned a second M.S. in Applied Mathematics (2024) and completed my Ph.D. in Applied Mathematics (2025) at the [University of New Mexico (UNM)](https://www.unm.edu/). My dissertation explores "Algebraic Multigrid Methods for Nonsymmetric and Indefinite Problems: Theory and Applications". Alongside my academic work, I contribute to interdisciplinary collaborations with national laboratories and academic institutions, emphasizing innovative approaches to scientific computing and numerical modeling.
