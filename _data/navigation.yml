@@ -23,6 +23,9 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+
+  - title: "Professional Activities"
+    url: "/professional-activities/"
     
   - title: "CV"
     url: /files/Ahsan_Ali_Resume.pdf
