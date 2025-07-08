@@ -6,16 +6,20 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/   
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Talks"
+    url: /talks/   
+
+  - title: "Education and Employment"
+    url: "/education-employment/"
+  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
