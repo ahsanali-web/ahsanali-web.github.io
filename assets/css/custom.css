@@ -18,3 +18,12 @@ a:hover {
 .layout--home .page__content p {
   text-align: justify !important;
 }
+
+/* Watermark only on homepage */
+body.home {
+  background-image: url("/assets/images/baylor-watermark.png") !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: 700px auto !important;
+}
+
