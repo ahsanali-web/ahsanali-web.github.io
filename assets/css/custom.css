@@ -20,7 +20,7 @@ a:hover {
 }
 
 /* Watermark only on homepage */
-body.home {
+body[data-page-url="/"] {
   background-image: url("/assets/images/baylor-watermark.png") !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
