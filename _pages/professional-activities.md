@@ -52,7 +52,7 @@ author_profile: true
 
 ---
 
-## 🛠️ Other Services
+## 🏛️ Other Services
 
 - **Volunteer**, UNM-PNM Statewide High School Mathematics Contest *(2019–2020, 2023–2024)*
 
