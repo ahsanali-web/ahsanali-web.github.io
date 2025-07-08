@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Education and Employment"
+title: "Education & Employment"
 permalink: /education-employment/
 author_profile: true
 ---
