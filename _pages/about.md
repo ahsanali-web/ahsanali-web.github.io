@@ -12,7 +12,7 @@ body {
   background-image: url("/assets/images/baylor-watermark.png") !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
-  background-size: 700px auto !important;
+  background-size: 600px auto !important;
 }
 </style>
 
