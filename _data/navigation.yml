@@ -26,6 +26,9 @@ main:
 
   - title: "Professional Activities"
     url: "/professional-activities/"
+
+  - title: "Collaborations"
+    url: "/collaborations/"
     
   - title: "CV"
     url: /files/Ahsan_Ali_Resume.pdf
