@@ -7,56 +7,56 @@ author_profile: true
 
 <style>
 .page__content img {
-  max-width: 200px;
+  max-height: 120px;
+  width: auto;
   display: block;
-  margin: 10px 0;
+  margin: 20px 0;
 }
 </style>
 
 ## 🤝 Collaborating Institutions and Labs
 
-### 📌 Department of Mathematics and Statistics, University of New Mexico
-
 ![UNM Logo](/assets/images/unm-logo.png)
+### Department of Mathematics and Statistics, University of New Mexico
 
 ---
-
-### 📌 Department of Mathematics, Pennsylvania State University
 
 ![Penn State Logo](/assets/images/pennstate-logo.png)
+### Department of Mathematics, Pennsylvania State University
 
 ---
-
-### 📌 Department of Mathematics, Baylor University
 
 ![Baylor Logo](/assets/images/baylor-logo.png)
+### Department of Mathematics, Baylor University
 
 ---
 
-### 📌 Department of Mathematics, University of Wuppertal
+![Texas A&M Logo](/assets/images/texasAM-logo.png)
+### Department of Mathematics & Statistics, Texas A&M University–Corpus Christi
+
+---
 
 ![Wuppertal Logo](/assets/images/wuppertal-logo.png)
+### University of Wuppertal
 
 ---
-
-### 📌 Theoretical Division, Plasma Physics Group, Los Alamos National Laboratory
 
 ![LANL Logo](/assets/images/lanl-logo.png)
+### Theoretical Division, Plasma Physics Group, Los Alamos National Laboratory
 
 ---
-
-### 📌 Sandia National Laboratories
 
 ![Sandia Logo](/assets/images/sandia-logo.png)
+### Sandia National Laboratories
 
 ---
 
-### 📌 School of Computational Science and Engineering, Georgia Institute of Technology
-
-![Georgia Tech Logo](/assets/images/gatech-logo.png)
+![Sandia CompMath Logo](/assets/images/sandia-compmath-logo.png)
+### Computational Mathematics Department, Sandia National Laboratories
 
 ---
 
-### 📌 Department of Mathematics & Statistics, Texas A&M University-Corpus Christi
+![Gatech CSE Logo](/assets/images/gatech-cse-logo.png)
+### School of Computational Science and Engineering, Georgia Institute of Technology
 
-![Texas A&M  Logo](/assets/images/texasAM-logo.png)
+---
