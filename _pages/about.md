@@ -8,16 +8,48 @@ redirect_from:
 ---
 
 <style>
-body {
-  background-image: url("/assets/images/usm-watermark.png") !important;
-  background-repeat: no-repeat !important;
-  background-position: center !important;
-  background-size: 600px auto !important;
+
+/* True watermark on homepage */
+body::before {
+  content: "";
+  position: fixed;
+  top: 80px;
+  left: 0;
+  width: 100%;
+  height: calc(100% - 80px);
+
+  background-image: url("/assets/images/usm-watermark.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 760px auto;
+
+  opacity: 0.055;
+
+  pointer-events: none;
+  z-index: 0;
 }
 
+/* Keep actual webpage content above watermark */
+#main,
+.masthead,
+.page__footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* Slight white veil behind main article for readability */
+.page {
+  background: rgba(255, 255, 255, 0.88);
+  padding: 1.2rem 1.5rem;
+  border-radius: 10px;
+}
+
+/* Homepage paragraph formatting */
 .page__content p {
   text-align: justify !important;
+  line-height: 1.65;
 }
+
 </style>
 
 I am Ahsan Ali, a Tenure-track Assistant Professor of Applied and Computational Mathematics in the School of Mathematics and Natural Sciences at [The University of Southern Mississippi (USM)](https://www.usm.edu/). My research lies at the intersection of numerical analysis, scientific computing, and partial differential equations, with a particular emphasis on scalable numerical solvers and multilevel methods for nonsymmetric and indefinite problems. I develop and analyze algebraic multigrid (AMG) methods, scalable preconditioners, and time-integration algorithms for challenging PDE systems arising in computational science and engineering.
