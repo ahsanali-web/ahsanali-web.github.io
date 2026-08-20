@@ -1,12 +1,16 @@
 /* =========================================================
    SOUTHERN MISS COLOR PALETTE
+
    Black: #000000
    Gold:  #FFAB00
    Light Gold: #FFD046
    ========================================================= */
 
 
-/* Main site background */
+/* ---------------------------------------------------------
+   Main site background
+   --------------------------------------------------------- */
+
 body {
   background-color: #f8f8f6 !important;
   color: #222222 !important;
@@ -37,6 +41,7 @@ body {
 
 
 /* Website name */
+
 .masthead__menu-item--lg a {
   color: #FFAB00 !important;
   font-weight: 700 !important;
@@ -74,11 +79,22 @@ body {
 
 
 /* ---------------------------------------------------------
+   Main content panel
+   Slight transparency allows the USM watermark to show
+   --------------------------------------------------------- */
+
+.page {
+  background: rgba(255, 255, 255, 0.72) !important;
+  border-radius: 10px;
+}
+
+
+/* ---------------------------------------------------------
    Sidebar
    --------------------------------------------------------- */
 
 .sidebar {
-  background: rgba(255, 255, 255, 0.94);
+  background: rgba(255, 255, 255, 0.86) !important;
   border-radius: 10px;
   padding: 15px;
 }
@@ -102,6 +118,7 @@ body {
 
 
 /* Profile photo accent */
+
 .author__avatar img {
   border: 4px solid #FFAB00;
 }
@@ -121,6 +138,7 @@ body {
   color: #FFD046 !important;
 }
 
+
 /* =========================================================
    NON-STICKY, WIDER AUTHOR SIDEBAR
    ========================================================= */
@@ -128,27 +146,36 @@ body {
 @media (min-width: 1024px) {
 
   /* Sidebar moves normally with the page */
+
   .sidebar,
   .sidebar.sticky {
     position: relative !important;
     top: auto !important;
+
     width: 340px !important;
     max-width: 340px !important;
+
     padding-right: 30px !important;
   }
 
+
   /* Give the entire page enough room */
+
   #main {
     max-width: 1550px !important;
   }
 
+
   /* Main article uses the remaining width */
+
   .page {
     width: calc(100% - 380px) !important;
     padding-left: 20px !important;
   }
 
+
   /* Keep sidebar text readable */
+
   .author__bio {
     font-size: 0.95em !important;
     line-height: 1.45 !important;
@@ -161,5 +188,26 @@ body {
   .author__urls li {
     line-height: 1.4 !important;
     margin-bottom: 8px !important;
+
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+  }
+}
+
+
+/* ---------------------------------------------------------
+   Mobile / tablet cleanup
+   --------------------------------------------------------- */
+
+@media (max-width: 1023px) {
+
+  .sidebar {
+    width: auto !important;
+    max-width: none !important;
+  }
+
+  .page {
+    width: 100% !important;
+    padding-left: 0 !important;
   }
 }
