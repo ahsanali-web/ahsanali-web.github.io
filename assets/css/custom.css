@@ -120,3 +120,19 @@ body {
 .page__footer a {
   color: #FFD046 !important;
 }
+
+/* Give the author sidebar more room */
+@media (min-width: 1024px) {
+  .sidebar {
+    width: 280px !important;
+    padding-right: 20px !important;
+  }
+
+  #main {
+    max-width: 1500px !important;
+  }
+
+  .page {
+    width: calc(100% - 320px) !important;
+  }
+}

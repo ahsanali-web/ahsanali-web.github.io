@@ -21,9 +21,9 @@ body::before {
   background-image: url("/assets/images/usm-watermark.png");
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 760px auto;
+  background-size: 850px auto;
 
-  opacity: 0.055;
+  opacity: 0.10;
 
   pointer-events: none;
   z-index: 0;
