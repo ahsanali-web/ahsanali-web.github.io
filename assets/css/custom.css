@@ -121,18 +121,45 @@ body {
   color: #FFD046 !important;
 }
 
-/* Give the author sidebar more room */
+/* =========================================================
+   NON-STICKY, WIDER AUTHOR SIDEBAR
+   ========================================================= */
+
 @media (min-width: 1024px) {
-  .sidebar {
-    width: 280px !important;
-    padding-right: 20px !important;
+
+  /* Sidebar moves normally with the page */
+  .sidebar,
+  .sidebar.sticky {
+    position: relative !important;
+    top: auto !important;
+    width: 340px !important;
+    max-width: 340px !important;
+    padding-right: 30px !important;
   }
 
+  /* Give the entire page enough room */
   #main {
-    max-width: 1500px !important;
+    max-width: 1550px !important;
   }
 
+  /* Main article uses the remaining width */
   .page {
-    width: calc(100% - 320px) !important;
+    width: calc(100% - 380px) !important;
+    padding-left: 20px !important;
+  }
+
+  /* Keep sidebar text readable */
+  .author__bio {
+    font-size: 0.95em !important;
+    line-height: 1.45 !important;
+  }
+
+  .author__urls {
+    font-size: 0.90em !important;
+  }
+
+  .author__urls li {
+    line-height: 1.4 !important;
+    margin-bottom: 8px !important;
   }
 }
