@@ -23,7 +23,7 @@ body::before {
   background-position: center center;
   background-size: 850px auto;
 
-  opacity: 0.30;
+  opacity: 0.25;
 
   pointer-events: none;
   z-index: 0;
