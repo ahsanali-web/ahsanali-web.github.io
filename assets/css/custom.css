@@ -211,3 +211,201 @@ body {
     padding-left: 0 !important;
   }
 }
+
+/* =========================================================
+   SOUTHERN MISS CUSTOM FOOTER
+   ========================================================= */
+
+.usm-footer {
+  width: 100%;
+  min-height: 125px;
+
+  display: flex;
+  align-items: stretch;
+
+  margin: 0;
+  padding: 0;
+
+  overflow: hidden;
+
+  background: #000000;
+}
+
+
+/* ---------------------------------------------------------
+   Gold logo section
+   --------------------------------------------------------- */
+
+.usm-footer__brand {
+  width: 46%;
+  min-height: 125px;
+
+  display: flex;
+  align-items: center;
+
+  padding: 20px 40px;
+
+  background: #FFAB00;
+
+  /* diagonal edge */
+  clip-path: polygon(
+    0 0,
+    100% 12%,
+    88% 100%,
+    0 100%
+  );
+}
+
+
+.usm-footer__brand img {
+  width: 270px;
+  max-width: 85%;
+
+  height: auto;
+
+  object-fit: contain;
+}
+
+
+/* ---------------------------------------------------------
+   Black contact section
+   --------------------------------------------------------- */
+
+.usm-footer__contact {
+  flex: 1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 28px;
+
+  padding: 25px 40px;
+
+  color: #ffffff;
+
+  background: #000000;
+}
+
+
+.usm-footer__item {
+  display: flex;
+  align-items: center;
+
+  gap: 12px;
+
+  font-size: 1rem;
+  white-space: nowrap;
+}
+
+
+.usm-footer__item i {
+  color: #FFAB00;
+  font-size: 1.3rem;
+}
+
+
+.usm-footer__item a {
+  color: #ffffff !important;
+
+  text-decoration: none !important;
+
+  font-weight: 400;
+}
+
+
+.usm-footer__item a:hover {
+  color: #FFD046 !important;
+}
+
+
+.usm-footer__divider {
+  width: 1px;
+  height: 42px;
+
+  background: #FFAB00;
+
+  opacity: 0.8;
+}
+
+
+/* ---------------------------------------------------------
+   Remove default AcademicPages footer content
+   --------------------------------------------------------- */
+
+.page__footer-follow,
+.page__footer-copyright {
+  display: none !important;
+}
+
+
+/* Remove default footer spacing */
+
+.page__footer {
+  padding: 0 !important;
+
+  margin-top: 2rem;
+
+  background: #000000 !important;
+
+  border-top: none !important;
+}
+
+
+.page__footer footer {
+  max-width: none !important;
+
+  margin: 0 !important;
+
+  padding: 0 !important;
+}
+
+
+/* ---------------------------------------------------------
+   Mobile layout
+   --------------------------------------------------------- */
+
+@media (max-width: 768px) {
+
+  .usm-footer {
+    flex-direction: column;
+  }
+
+
+  .usm-footer__brand {
+    width: 100%;
+
+    justify-content: center;
+
+    clip-path: none;
+
+    padding: 25px;
+  }
+
+
+  .usm-footer__brand img {
+    width: 230px;
+  }
+
+
+  .usm-footer__contact {
+    flex-direction: column;
+
+    gap: 14px;
+
+    padding: 25px 15px;
+  }
+
+
+  .usm-footer__divider {
+    display: none;
+  }
+
+
+  .usm-footer__item {
+    white-space: normal;
+
+    text-align: center;
+  }
+
+}
