@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpg"
+  avatar           : "profile_usm.jpg"
   name             : "Ahsan Ali"
   pronouns         : "he/him"  
   bio              : "Assistant Professor of Applied and Computational Mathematics"
