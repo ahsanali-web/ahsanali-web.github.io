@@ -1,3 +1,4 @@
+```html
 ---
 layout: single
 title: "Publications"
@@ -7,17 +8,46 @@ author_profile: true
 
 <style>
 
-/* Make publication page wider */
-@media (min-width: 1024px) {
-  .page {
-    width: calc(100% - 380px) !important;
-    padding-left: 20px !important;
-  }
+/* =========================================================
+   WIDE PUBLICATIONS PAGE
+   ========================================================= */
 
+@media (min-width: 1024px) {
+
+  /* Overall content area */
   #main {
     max-width: 1550px !important;
+    width: 96% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* Keep sidebar wide and non-sticky */
+  .sidebar,
+  .sidebar.sticky {
+    width: 340px !important;
+    max-width: 340px !important;
+    position: relative !important;
+    top: auto !important;
+  }
+
+  /* Publications area takes the remaining width */
+  .page {
+    float: right !important;
+    width: calc(100% - 370px) !important;
+    max-width: none !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  /* Remove internal width restrictions */
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
   }
 }
+
 
 /* Justify publication entries */
 .page__content p,
@@ -25,13 +55,15 @@ author_profile: true
   text-align: justify !important;
 }
 
+
 /* Improve spacing between publications */
 .page__content li {
   margin-bottom: 1.1em;
   line-height: 1.55;
 }
 
-/* Section heading styling */
+
+/* Section headings */
 .page__content h3 {
   margin-top: 1.8em;
   margin-bottom: 0.8em;
@@ -149,3 +181,4 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   </li>
 
 </ol>
+```
