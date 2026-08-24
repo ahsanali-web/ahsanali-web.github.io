@@ -1,10 +1,10 @@
-
 ---
+
 layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--------------------
 
 <style>
 
@@ -14,7 +14,6 @@ author_profile: true
 
 @media (min-width: 1024px) {
 
-  /* Overall content area */
   #main {
     max-width: 1550px !important;
     width: 96% !important;
@@ -22,7 +21,6 @@ author_profile: true
     margin-right: auto !important;
   }
 
-  /* Keep sidebar wide and non-sticky */
   .sidebar,
   .sidebar.sticky {
     width: 340px !important;
@@ -31,7 +29,6 @@ author_profile: true
     top: auto !important;
   }
 
-  /* Publications area takes the remaining width */
   .page {
     float: right !important;
     width: calc(100% - 370px) !important;
@@ -40,7 +37,6 @@ author_profile: true
     padding-right: 20px !important;
   }
 
-  /* Remove internal width restrictions */
   .page__inner-wrap,
   .page__content {
     width: 100% !important;
@@ -48,22 +44,16 @@ author_profile: true
   }
 }
 
-
-/* Justify publication entries */
 .page__content p,
 .page__content li {
   text-align: justify !important;
 }
 
-
-/* Improve spacing between publications */
 .page__content li {
   margin-bottom: 1.1em;
   line-height: 1.55;
 }
 
-
-/* Section headings */
 .page__content h3 {
   margin-top: 1.8em;
   margin-bottom: 0.8em;
@@ -71,9 +61,7 @@ author_profile: true
 
 </style>
 
-
 You can also find my articles on my <a href="https://scholar.google.com/citations?user=fwXIoCMAAAAJ&hl=en">Google Scholar profile</a>.
-
 
 <h3>Accepted / Appeared</h3>
 
@@ -128,7 +116,6 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 </ol>
 
-
 <h3>Submitted / In Preparation</h3>
 
 <ol start="8">
@@ -147,7 +134,6 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 </ol>
 
-
 <h3>Student Competition Paper</h3>
 
 <ol start="10">
@@ -160,7 +146,6 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   </li>
 
 </ol>
-
 
 <h3>Ph.D. Dissertation / M.S. Thesis</h3>
 
