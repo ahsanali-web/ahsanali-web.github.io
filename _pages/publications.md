@@ -1,4 +1,4 @@
-```html
+
 ---
 layout: single
 title: "Publications"
@@ -181,4 +181,3 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   </li>
 
 </ol>
-```
