@@ -51,12 +51,14 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     Oliver A. Krzysik, Ben S. Southworth, Golo Wimmer, <strong>Ahsan Ali</strong>, James Brannick, and Karsten Kahl.
     Optimal transfer operators in algebraic two-level methods for nonsymmetric and indefinite problems.
     <em>SIAM Journal on Matrix Analysis and Applications</em> 47.2 (2026): 824–851.
+    <a href="https://epubs.siam.org/doi/10.1137/25M179436X">Link</a>
   </li>
 
   <li>
     Ishtiaque Anwar, Meng Meng, William J. Carey, <strong>Ahsan Ali</strong>, Maitri V. Dalal, and Phillip H. Stauffer.
     A streamlined qualitative risk assessment framework for corrective action in legacy wells: A case study from the Lake Pontchartrain basin.
     <em>International Journal of Greenhouse Gas Control</em> 146 (2025): 104451.
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1750583625001495">Link</a>
   </li>
 
   <li>
