@@ -25,7 +25,10 @@ author_profile: true
 
 ## 💼 Employment
 
-- **Postdoctoral Research Associate** *(June 2025 – Present)*  
+- **Assistant Professor** *(August 2026 – Present)*  
+  School of Mathematics and Natural Sciences, The University of Southern Mississippi, Hattiesburg, Mississippi, USA
+
+- **Postdoctoral Research Associate** *(June 2025 – July 2026)*  
   Department of Mathematics, Baylor University, Waco, Texas, USA
 
 - **Teaching & Research Assistant** *(August 2018 – May 2025)*  
