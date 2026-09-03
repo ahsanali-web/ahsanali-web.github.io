@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_usm.jpg"
   name             : "Ahsan Ali"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Assistant Professor of Applied and Computational Mathematics"
   location         : "Hattiesburg, Mississippi, USA."
   employer         : "The University of Southern Mississippi"
