@@ -101,6 +101,8 @@ body {
 
 .author__name {
   color: #000000 !important;
+  font-size: 1.45em !important;
+  font-weight: 700 !important;
 }
 
 .author__bio {
@@ -196,12 +198,12 @@ body {
   /* Keep sidebar text readable */
 
   .author__bio {
-    font-size: 0.95em !important;
+    font-size: 1.08em !important;
     line-height: 1.45 !important;
   }
 
   .author__urls {
-    font-size: 0.90em !important;
+    font-size: 1.02em !important;
   }
 
   .author__urls li {
