@@ -47,8 +47,8 @@ author_profile: true
 
 ## 🌐 Professional Memberships
 
-- American Mathematical Society.
-- Society for Industrial and Applied Mathematics, Student Chapter, University of New Mexico.
+- American Mathematical Society (AMS).
+- Society for Industrial and Applied Mathematics (SIAM).
 
 ---
 
@@ -62,5 +62,4 @@ author_profile: true
 - **Member**, Organizing Committee *(2016)*  
   EWU Inter-University Math Olympiad, East West University, Dhaka, Bangladesh.
 
-- **Moderator**, East West University Telecommunication Club *(2015–2016)*
 
