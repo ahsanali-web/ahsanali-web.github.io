@@ -52,6 +52,13 @@ author_profile: true
 
 ---
 
+## 📚 Journal Reviewer
+
+- **Studies in Applied Mathematics**, Wiley.
+- **Meccanica**, Springer Nature.
+
+---
+
 ## 🏛️ Other Services
 
 - **Volunteer**, UNM-PNM Statewide High School Mathematics Contest *(2019–2020, 2023–2024)*
