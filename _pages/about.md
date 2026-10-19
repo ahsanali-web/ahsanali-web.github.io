@@ -31,7 +31,6 @@ body::before {
 
 /* Keep actual webpage content above watermark */
 #main,
-.masthead,
 .page__footer {
   position: relative;
   z-index: 1;
