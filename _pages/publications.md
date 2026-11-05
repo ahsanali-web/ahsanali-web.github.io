@@ -111,8 +111,8 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
   <li>
     <strong>Ahsan Ali</strong>, Robert C. Kirby.
-    A Multigrid-Preconditioned Fully Implicit Runge-Kutta Framework for Time-Dependent Rayleigh–Bénard Convection in 2D and 3D.
-    <em>SIAM Journal on Scientific Computing</em> (In preparation).
+    Scalable Fully Implicit Runge-Kutta Solvers for Time-Dependent Rayleigh-Bénard Convection.
+    <em>SIAM Journal on Scientific Computing</em> (Submitted).
   </li>
 
 </ol>

@@ -430,3 +430,48 @@ body {
   }
 
 }
+
+/* =========================================================
+   CONSISTENT HORIZONTAL LAYOUT ACROSS ALL PAGES
+   ========================================================= */
+
+@media (min-width: 1024px) {
+
+    /* Same overall page width everywhere */
+    #main {
+        width: 96% !important;
+        max-width: 1550px !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        box-sizing: border-box;
+    }
+
+    /* Consistent author sidebar */
+    #main .sidebar {
+        width: 340px !important;
+        max-width: 340px !important;
+        box-sizing: border-box;
+    }
+
+    /* Use all remaining horizontal space for the page */
+    #main .page {
+        float: right !important;
+        width: calc(100% - 365px) !important;
+        max-width: none !important;
+
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+
+        padding: 20px 25px !important;
+        box-sizing: border-box;
+    }
+
+    /* Allow content to occupy the full article width */
+    #main .page__inner-wrap,
+    #main .page__content {
+        width: 100% !important;
+        max-width: none !important;
+    }
+}
