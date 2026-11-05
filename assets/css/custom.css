@@ -432,43 +432,66 @@ body {
 }
 
 /* =========================================================
-   CONSISTENT HORIZONTAL LAYOUT ACROSS ALL PAGES
+   CONSISTENT RESPONSIVE LAYOUT ACROSS ALL PAGES
    ========================================================= */
 
 @media (min-width: 1024px) {
 
-    /* Same overall page width everywhere */
+    /* Main website container */
     #main {
+        display: flex !important;
+        align-items: flex-start !important;
+        gap: 25px;
+
         width: 96% !important;
         max-width: 1550px !important;
+
         margin-left: auto !important;
         margin-right: auto !important;
-        padding-left: 15px !important;
-        padding-right: 15px !important;
+
+        padding: 20px 15px !important;
         box-sizing: border-box;
     }
 
-    /* Consistent author sidebar */
-    #main .sidebar {
+    /* Author sidebar */
+    #main .sidebar,
+    #main .sidebar.sticky {
+        position: relative !important;
+        top: auto !important;
+
+        float: none !important;
+
+        flex: 0 0 340px;
         width: 340px !important;
         max-width: 340px !important;
+
+        height: auto !important;
+        min-height: 0 !important;
+        overflow: visible !important;
+
+        margin: 0 !important;
+        padding: 15px !important;
+
         box-sizing: border-box;
     }
 
-    /* Use all remaining horizontal space for the page */
+    /* Main content */
     #main .page {
-        float: right !important;
-        width: calc(100% - 365px) !important;
+        float: none !important;
+
+        flex: 1 1 0;
+        min-width: 0;
+
+        width: auto !important;
         max-width: none !important;
 
-        margin-left: 0 !important;
-        margin-right: 0 !important;
-
+        margin: 0 !important;
         padding: 20px 25px !important;
+
         box-sizing: border-box;
     }
 
-    /* Allow content to occupy the full article width */
+    /* Use available article width */
     #main .page__inner-wrap,
     #main .page__content {
         width: 100% !important;
