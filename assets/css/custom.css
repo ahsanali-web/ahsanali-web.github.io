@@ -498,3 +498,34 @@ body {
         max-width: none !important;
     }
 }
+
+/* =========================================================
+   FIX DROPDOWN NAVIGATION MENU
+   ========================================================= */
+
+/* Dropdown background */
+.greedy-nav .hidden-links {
+    background-color: #ffffff !important;
+    border: 1px solid #dddddd;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Make dropdown links visible */
+.greedy-nav .hidden-links a {
+    color: #222222 !important;
+    background-color: #ffffff !important;
+    display: block;
+}
+
+/* Highlight links when hovering */
+.greedy-nav .hidden-links a:hover,
+.greedy-nav .hidden-links a:focus {
+    color: #000000 !important;
+    background-color: #FFD046 !important;
+}
+
+/* Improve keyboard navigation */
+.greedy-nav .hidden-links a:focus-visible {
+    outline: 2px solid #FFAB00;
+    outline-offset: -2px;
+}
