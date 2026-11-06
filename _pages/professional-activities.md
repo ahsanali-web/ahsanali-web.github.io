@@ -20,6 +20,9 @@ author_profile: true
 
 ## 🏅 Awards / Honors
 
+- **2026–2027 College of Arts and Sciences Provost Faculty Travel Award**  
+  University of Southern Mississippi.
+
 - **NSF Collaborative Research Grant Award for Outstanding Performance as a Graduate Student** *(July 2025)*  
   Department of Mathematics and Statistics, University of New Mexico.
 
